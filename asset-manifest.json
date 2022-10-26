@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/deposit-calculator/static/css/main.f6eecadd.css",
-    "main.js": "/deposit-calculator/static/js/main.2ddea3bd.js",
+    "main.css": "/deposit-calculator/static/css/main.693fdcea.css",
+    "main.js": "/deposit-calculator/static/js/main.1252b4cb.js",
     "index.html": "/deposit-calculator/index.html",
-    "main.f6eecadd.css.map": "/deposit-calculator/static/css/main.f6eecadd.css.map",
-    "main.2ddea3bd.js.map": "/deposit-calculator/static/js/main.2ddea3bd.js.map"
+    "main.693fdcea.css.map": "/deposit-calculator/static/css/main.693fdcea.css.map",
+    "main.1252b4cb.js.map": "/deposit-calculator/static/js/main.1252b4cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6eecadd.css",
-    "static/js/main.2ddea3bd.js"
+    "static/css/main.693fdcea.css",
+    "static/js/main.1252b4cb.js"
   ]
 }
